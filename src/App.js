@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      this is change what i wanted
+      start creating your react application now...
     </div>
   );
 }
